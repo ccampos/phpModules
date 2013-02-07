@@ -1,0 +1,13 @@
+<?php
+	// home
+	$host = 'localhost';
+	$user = 'root';
+	$pass = 'root';
+	$db = 'crocodile';
+
+	// work
+/*	$host = 'localhost';
+	$user = 'root';
+	$pass = '';
+	$db = 'panda';*/
+?>
