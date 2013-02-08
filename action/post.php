@@ -1,6 +1,6 @@
 <?php
-	require_once './debug/ChromePhp.php';
-	require_once './vars/db.php';
+	require_once '../debug/ChromePhp.php';
+	require_once '../vars/db.php';
 
 	$conn = new mysqli($host, $user, $pass, $db);
 
